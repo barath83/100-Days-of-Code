@@ -17,9 +17,9 @@
 + [Web Dev Course Work](https://github.com/barath83/Web-Dev-Course-Work/tree/master/vanilla%20javascript/fundamentals-javascript) - Started revising on fundamentals in javascript
     * Arrow functions
 
-## Day 1
+## Day 2
 
 + Solved 2 problems on Hackerrank - Greedy/String/Algorithm.
-+ [Web Dev Course Work](https://github.com/barath83/Web-Dev-Course-Work/tree/master/vanilla%20javascript/fundamentals-javascript) - Started revising on fundamentals in javascript
++ [Web Dev Course Work](https://github.com/barath83/Web-Dev-Course-Work/tree/master/vanilla%20javascript/fundamentals-javascript) - Continued revising on fundamentals in javascript
     * 'this' keyword
-    * function declaration Vs function expression
+    * Function Declaration Vs Function Expression
