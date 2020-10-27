@@ -16,3 +16,10 @@
 + Solved 2 problems on Hackerrank - Implementation/Algorithm.
 + [Web Dev Course Work](https://github.com/barath83/Web-Dev-Course-Work/tree/master/vanilla%20javascript/fundamentals-javascript) - Started revising on fundamentals in javascript
     * Arrow functions
+
+## Day 1
+
++ Solved 2 problems on Hackerrank - Greedy/String/Algorithm.
++ [Web Dev Course Work](https://github.com/barath83/Web-Dev-Course-Work/tree/master/vanilla%20javascript/fundamentals-javascript) - Started revising on fundamentals in javascript
+    * 'this' keyword
+    * function declaration Vs function expression
