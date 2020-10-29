@@ -1,4 +1,4 @@
-# 100-Days-of-Code
+# 100-Days-of-Code-Journal
 
 ## Day 0 
 
@@ -33,7 +33,7 @@
     * var Vs let Vs const
 + Designed a form in ReactJs for a project
    * Validation of form using react-hook-form
-   * Validation of form using HTML5 properties
+   * Validation of form using HTML5 properties using input tag
     
    
     
