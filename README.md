@@ -32,7 +32,7 @@
     * Hoisting
     * var Vs let Vs const
 + Designed a form in ReactJs for a project
-   * Validation of form using react-hook-form
+   * Validation of form using react-hook-form - [Resource Link](https://react-hook-form.com/)
    * Validation of form using HTML5 properties using input tag
     
    
