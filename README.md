@@ -23,3 +23,18 @@
 + [Web Dev Course Work](https://github.com/barath83/Web-Dev-Course-Work/tree/master/vanilla%20javascript/fundamentals-javascript) - Continued revising on fundamentals in javascript
     * 'this' keyword
     * Function Declaration Vs Function Expression
+
+## Day 3
+
++ Reviewed problems solved in Hackerrank past week - Greedy/String/Implementation/Algorithm.
++ [Web Dev Course Work](https://github.com/barath83/Web-Dev-Course-Work/tree/master/vanilla%20javascript/fundamentals-javascript) - Continued revising on fundamentals in javascript
+    * call(), apply() and bind()
+    * Hoisting
+    * var Vs let Vs const
++ Designed a form in ReactJs for a project
+   * Validation of form using react-hook-form
+   * Validation of form using HTML5 properties
+    
+   
+    
+    
