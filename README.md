@@ -34,6 +34,17 @@
 + Designed a form in ReactJs for a project
    * Validation of form using react-hook-form - [Resource Link](https://react-hook-form.com/)
    * Validation of form using HTML5 properties using input tag
+   
+
+## Day 4
+
++ Reviewed and solved problems in Hackerrank - Greedy/Implementation/Algorithm.
++ [Web Dev Course Work](https://github.com/barath83/Web-Dev-Course-Work/tree/master/vanilla%20javascript/fundamentals-javascript) - Continued revising on fundamentals in javascript
+    * Closure
+    * Currying
++ Worked further on the form in ReactJs - [Web Dev Course Work](https://github.com/barath83/Web-Dev-Course-Work/tree/master/pern_stack/studentForm)
+   * State management using react-hook-form - [Resource Link](https://react-hook-form.com/)
+   * Saving form data in Postgre SQL - PERN Stack
     
    
     
