@@ -45,6 +45,18 @@
 + Worked further on the form in ReactJs - [Web Dev Course Work](https://github.com/barath83/Web-Dev-Course-Work/tree/master/pern_stack/studentForm)
    * State management using react-hook-form - [Resource Link](https://react-hook-form.com/)
    * Saving form data in Postgre SQL - PERN Stack
+   
+
+## Day 5
+
++ [Web Dev Course Work](https://github.com/barath83/Web-Dev-Course-Work/tree/master/vanilla%20javascript/fundamentals-javascript) - Continued revising on fundamentals in javascript
+    * Arrays
++ Practiced Polymorphism - [OOPS](https://github.com/barath83/DSA-and-Programming-Concepts/tree/master/OOPS/Polymorphism)
+   * Function overloading - compile time
+   * Operator overloading - compile time
+   * Virtual functions
+   * Function overriding - run time
+   
     
    
     
