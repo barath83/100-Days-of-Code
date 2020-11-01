@@ -70,7 +70,7 @@
       * .find()
       * .indexOf() / .includes()
     * Array destructuring  
-+ Continued working a mini-project for academia
++ Continued working on a mini-project for academia
    * JWT authentication - How to use and why.
 + Revised React Hooks
    * useState()
