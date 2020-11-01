@@ -57,6 +57,25 @@
    * Virtual functions
    * Function overriding - run time
    
+
+## Day 6
+
++ [Web Dev Course Work](https://github.com/barath83/Web-Dev-Course-Work/tree/master/vanilla%20javascript/fundamentals-javascript) - Continued revising on fundamentals in javascript
+    * Array Methods
+      * .map()
+      * .filter()
+      * .reduce()
+      * .splice()
+      * .slice()
+      * .find()
+      * .indexOf() / .includes()
+    * Array destructuring  
++ Continued working a mini-project for academia
+   * JWT authentication - How to use and why.
++ Revised React Hooks
+   * useState()
+   * useEffect()
+   
     
    
     
