@@ -76,6 +76,15 @@
    * useState()
    * useEffect()
    
+
+## Day 7 
+
++ Introduction to Web Automation using Javascript and [Puppeteer](https://github.com/puppeteer/puppeteer)
+   * Scrapping of data 
+   * Mouse,Keyboard events for Web automation scripts
+   * Taking screenshots and making pdf's
+   
+   
     
    
     
