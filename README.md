@@ -87,13 +87,13 @@
    
 ## Day 8 
 
-+ [Full Stack Web Dev] - (https://github.com/barath83/Full-Stack-Web-Dev-Course-Work/tree/master/mern_stack/basic_projects/reactExpressFileUploader) Worked on a basic React app that uploads files to server - [Resource Link](https://www.youtube.com/watch?v=b6Oe2puTdMQ)
++ [Full Stack Web Dev](https://github.com/barath83/Full-Stack-Web-Dev-Course-Work/tree/master/mern_stack/basic_projects/reactExpressFileUploader) Worked on a basic React app that uploads files to server - [Resource Link](https://www.youtube.com/watch?v=b6Oe2puTdMQ)
    * Using express to handle file upload end-points
    * Used useState Hook to handle state
    * Worked with Bootstrap using React
    * How to run client and server concurrently
    
-+ [Data Structures] - (https://github.com/barath83/DSA-and-Programming-Concepts/tree/master/Data%20Structures/Trees) Started Revising Trees
++ [Data Structures](https://github.com/barath83/DSA-and-Programming-Concepts/tree/master/Data%20Structures/Trees) Started Revising Trees
    * Why Trees
    * Tree Data Structure in General
    * Height and Depth
