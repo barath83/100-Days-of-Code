@@ -110,6 +110,25 @@
    * Insertion in binary tree
    
    
+## Day 10 
+
++ [Data Structures](https://github.com/barath83/DSA-and-Programming-Concepts/tree/master/Data%20Structures/Trees/Binary%20Tree) - Continued Revising Trees
+   * Deletion in Binary Tree
+   * Inorder Traversal - Recursive
+   * Preorder Traversal - Recursive
+   * Postorder Traversal -Recursive
+   
++ [ReactJs] (https://github.com/barath83/Full-Stack-Web-Dev-Course-Work/tree/master/reactJS/basic_projects/lorem_ipsum) - Developed a simple pagination app in ReactJs
+   * Props usage
+   * useState()
+   * How to make pagination while handling loads of content
+   
++ Worked on mini-project for academia
+   * Worked on developing API endpoints
+   * Usual CRUD operations with NodeJs and Postgre SQL
+   
+   
+   
    
    
    
