@@ -127,6 +127,10 @@
    * Worked on developing API endpoints
    * Usual CRUD operations with NodeJs and Postgre SQL
    
+
+## Day 11
+
++ Solved few problems in GeeksforGeeks Practice Portal under Sorting/Algorithm
    
    
    
