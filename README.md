@@ -132,6 +132,21 @@
 
 + Solved few problems in GeeksforGeeks Practice Portal under Sorting/Algorithm
    
+
+
+## Day 12
+
++ [Web Dev Course Work](https://github.com/barath83/Web-Dev-Course-Work/tree/master/vanilla%20javascript/fundamentals-javascript) - Continued revising on fundamentals in javascript
+    * Iterables and Iterators
+    * Generators
++ Continued working on a mini-project for academia
+   * Dynamic routing in Express
+   * Passing params in URL
+   * SQL Queries to filter data - Postgre SQL
++ Started revising CSS fundamentals - Started with Basic CSS Module from [Free Code Camp](https://www.freecodecamp.org/learn)
+   * Completed 50% of Basic CSS module
+
+
    
    
    
