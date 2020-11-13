@@ -147,6 +147,11 @@
    * Completed 50% of Basic CSS module
 
 
+## Day 13
+
++ Continued revising CSS fundamentals - Started with Basic CSS Module from [Free Code Camp](https://www.freecodecamp.org/learn)
+   * Completed Basic CSS module
+
    
    
    
