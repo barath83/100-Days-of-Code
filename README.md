@@ -157,6 +157,7 @@
 
 + [Web Dev Course Work](https://github.com/barath83/Web-Dev-Course-Work/tree/master/vanilla%20javascript/fundamentals-javascript) - Continued revising on fundamentals in javascript
     * IIFE - Immediately Invoked Function Expression
+    * Spread operator and Rest parameters
   
   
    
