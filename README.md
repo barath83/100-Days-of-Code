@@ -151,6 +151,15 @@
 
 + Continued revising CSS fundamentals - Started with Basic CSS Module from [Free Code Camp](https://www.freecodecamp.org/learn)
    * Completed Basic CSS module
+  
+  
+## Day 14
+
++ [Web Dev Course Work](https://github.com/barath83/Web-Dev-Course-Work/tree/master/vanilla%20javascript/fundamentals-javascript) - Continued revising on fundamentals in javascript
+    * IIFE - Immediately Invoked Function Expression
+  
+  
+   
 
    
    
