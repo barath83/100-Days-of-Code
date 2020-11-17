@@ -166,6 +166,15 @@
     * Map and Set
     * .forEach()
     
+    
+## Day 16 
+
++ NodeJs Crash Course - [Resource Link](https://www.youtube.com/watch?v=fBNz5xF-Kx4)
+   * What is Node.js
+   * Basic examples
+   * Built-in modules usage explained
+   * Creating a basic web server using Node.js
+    
   
   
    
