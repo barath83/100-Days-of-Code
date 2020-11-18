@@ -174,6 +174,15 @@
    * Basic examples
    * Built-in modules usage explained
    * Creating a basic web server using Node.js
+   
+   
+## Day 17
+
++ Express Js Crash Course - [Resource Link](https://www.youtube.com/watch?v=L72fhGm1tfE&t=2490s)
+   * Express Js usage
+   * Basic Routes handling
+   * HTML and static files rendering
+   * Middleware functions, what are they
     
   
   
